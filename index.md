@@ -1,9 +1,7 @@
-## Alex Gonzalez Giron
+## Alex Gonzalez Giron  
+<img src="efe.PNG" width= 100px> 
 
-Estudiante de segundo año de Sistemas Microinformáticos y Redes actualmente estoy fin<lizando mi segundo año. <img src:efe.PNG>
-
-### Markdown
-
+Estudiante de segundo año de Sistemas Microinformáticos y Redes actualmente estoy finalizando mi segundo año.
 
 ### Informacion personal
 ```markdown
