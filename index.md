@@ -1,6 +1,6 @@
 ## Alex Gonzalez Giron
 
-Estudiante de segundo año de Sistemas Microinformáticos y Redes actualmente estoy fin<lizando mi segundo año.
+Estudiante de segundo año de Sistemas Microinformáticos y Redes actualmente estoy fin<lizando mi segundo año. <img src:efe.PNG>
 
 ### Markdown
 
