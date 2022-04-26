@@ -34,3 +34,6 @@ Estudiante de segundo año de Sistemas Microinformáticos y Redes actualmente es
 - Cstelláno nativo
 - Catalán Nivel muy alto
 ```
+
+### EJEMPLOS DE CONOCIMIENTO SOBRE HTML Y CSS
+Pagina sobre el trabajo de sintesis de SMX2 realizado por mi  [Link a la pagina](Pagina_Sintesis).
