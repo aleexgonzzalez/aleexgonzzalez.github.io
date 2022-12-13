@@ -15,7 +15,7 @@ Estudiante de segundo año de Sistemas Microinformáticos y Redes actualmente es
 
 - Titulación de la ESO.
 - Actualmente estoy estudiando SMX (sistemas microinformáticos y redes).
-- Capacidad de desarrollar tareas que me asignen con facilidad.
+- Capacidad de desarrollar tareas que me asignen con facilidad..
 ```
 ### Conocimientos
 ```markdown
